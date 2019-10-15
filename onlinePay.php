@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Payement Orange Money wordpress
+Plugin Name: Payement Orange Money wordpress Cameroun 
 Plugin URI: http://smicam.com/service
 Description: Un plugin pour le payement Orange Money Cameroun
 Version: 0.1
